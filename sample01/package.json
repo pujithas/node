@@ -1,0 +1,20 @@
+{
+  "name": "mysampleapp",
+  "version": "1.0.0",
+  "description": "This is my first npm package to be distributed through out the world ",
+  "main": "index.js",
+  "dependencies": {
+    "net": "^1.0.2",
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sample",
+    "trail"
+  ],
+  "author": "pujitha",
+  "license": "ISC"
+}
